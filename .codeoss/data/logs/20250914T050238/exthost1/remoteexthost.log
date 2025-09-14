@@ -1,0 +1,5 @@
+2025-09-14 05:05:33.822 [info] Extension host with pid 1673 started
+2025-09-14 05:05:33.822 [error] Error: EEXIST: file already exists, open '/home/student_03_9311dba81dd6/.codeoss/data/User/workspaceStorage/17251352/vscode.lock'
+2025-09-14 05:05:33.822 [info] Lock '/home/student_03_9311dba81dd6/.codeoss/data/User/workspaceStorage/17251352/vscode.lock': Could not acquire lock, checking if the file is stale.
+2025-09-14 05:05:33.832 [info] Lock '/home/student_03_9311dba81dd6/.codeoss/data/User/workspaceStorage/17251352/vscode.lock': The lock does not look stale, elapsed: 632 ms, giving up.
+2025-09-14 05:05:33.885 [info] Lock '/home/student_03_9311dba81dd6/.codeoss/data/User/workspaceStorage/17251352-1/vscode.lock': Lock acquired.

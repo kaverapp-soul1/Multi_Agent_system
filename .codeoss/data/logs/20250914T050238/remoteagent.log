@@ -1,0 +1,27 @@
+2025-09-14 05:02:39.030 [info] 
+
+
+
+
+2025-09-14 05:02:39.063 [info] Extension host agent started.
+2025-09-14 05:02:39.099 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student_03_9311dba81dd6/.codeoss/extensions
+2025-09-14 05:02:39.105 [info] ComputeTargetPlatform: linux-x64
+2025-09-14 05:02:39.116 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student_03_9311dba81dd6/.codeoss/extensions
+2025-09-14 05:03:03.796 [info] [127.0.0.1][5bba6d9d][ManagementConnection] New connection established.
+2025-09-14 05:03:03.975 [info] [127.0.0.1][2d29cdbf][ExtensionHostConnection] New connection established.
+2025-09-14 05:03:06.105 [info] [127.0.0.1][2d29cdbf][ExtensionHostConnection] <1673> Launched Extension Host Process.
+2025-09-14 05:03:41.907 [info] [127.0.0.1][be64a7a3][ManagementConnection] New connection established.
+2025-09-14 05:03:42.345 [info] [127.0.0.1][50023d9c][ExtensionHostConnection] New connection established.
+2025-09-14 05:03:42.360 [info] [127.0.0.1][50023d9c][ExtensionHostConnection] <1725> Launched Extension Host Process.
+2025-09-14 05:04:47.102 [warning] RequestStore#acceptReply was called without receiving a matching request 13
+2025-09-14 05:04:47.103 [warning] RequestStore#acceptReply was called without receiving a matching request 14
+2025-09-14 05:04:47.103 [warning] RequestStore#acceptReply was called without receiving a matching request 15
+2025-09-14 05:04:47.103 [warning] RequestStore#acceptReply was called without receiving a matching request 16
+2025-09-14 05:04:47.103 [warning] RequestStore#acceptReply was called without receiving a matching request 17
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 18
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 19
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 20
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 21
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 22
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 23
+2025-09-14 05:04:47.104 [warning] RequestStore#acceptReply was called without receiving a matching request 24
